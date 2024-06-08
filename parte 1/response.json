@@ -1,0 +1,1 @@
+{"status":200,"mensage":"Parabéns, você concluiu o Passo 1!","description":"No passo 2 realize uma requisição do tipo POST no endpoint: https://aczgdesafio.rj.r.appspot.com/passo2","recomendations":"Envie no corpo da requisição um Json informando seu cpf, no seguinte formato: {cpf:xxx.xxx.xxx-xx}"}
